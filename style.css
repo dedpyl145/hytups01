@@ -1,0 +1,56 @@
+body {
+font-family: sans-serif;
+background-image: linear-gradient( rgb(0, 0, 0), rgb(0, 255, 149), rgb(255, 0, 221));
+}
+
+header {
+background-image: linear-gradient( rgb(255, 255, 255), rgb(0, 153, 255), rgb(255, 0, 0));
+padding: 40px 0px 40px 25px;
+}
+
+.link-header {
+background-color: #ffffff;
+padding: 10px 15px 10px 15px;
+font-size: 36px;
+text-decoration: none;
+border-radius: 20px;
+color: rgb(25, 0, 255);
+}
+
+nav {
+padding: 35px 40px 0px 40px;
+}
+
+.link-nav {
+color: rgb(8, 250, 89);
+font-size: 28px;
+margin-right: 35px;
+text-decoration: none;
+border-bottom: 2px solid rgb(255, 0, 234);
+justify-content: space-between;
+}
+
+h1 {
+text-align: center;
+color: #4a554a;
+font-size: 96px;
+}
+
+p {
+font-size: 24px;
+margin-left: 60px;
+}
+
+footer {
+justify-content: space-between;
+display: flex;
+margin-top: 20px;
+}
+
+.social {
+margin-right: 60px;
+}
+
+ul {
+font-size: 26px;
+}
